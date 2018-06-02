@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"find",
+				"findByIdAndUpdate"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"method",
+				"methodOverride"
+			],
+			[
+				"express",
+				"expressSanitizer"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"height",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"pic",
+				"pickedColor"
+			],
+			[
+				"generate",
+				"generateRandomColors"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"message",
+				"messageDisplay"
+			],
+			[
+				"clicke",
+				"clickedColor"
+			],
+			[
+				"winning",
+				"winningScoreDisplay"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"rese",
+				"resetButton"
+			],
+			[
+				"p2",
+				"p2Score"
+			],
+			[
+				"i",
+				"isEven"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"N",
+				"number"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"img",
+				"img-thumbnail"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"fa",
+				"fa-user-plus"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sele",
+				"Selectors"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"color",
+				"color-interpolation"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"b",
+				"birthday"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 134,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 21,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 7,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "log.txt",
+			"settings":
+			{
+				"buffer_size": 10,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 882.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 882.0
+	},
+	"console":
+	{
+		"height": 517.0,
+		"history":
+		[
+			"mkdir",
+			"help",
+			"ls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"mkdir new project"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/public/stylesheets/app.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/views/index.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/views/new.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/views/partials/header.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/views/show.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/views/edit.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/app.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/package.json",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/views/partials/footer.ejs",
+		"/C/views/index.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/blog/index.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/myapp/app.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Blog/app.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Blog/index.ejs",
+		"/C/Users/Denis Rawls/Desktop/Coding/app.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/NBA Collision/collision.svg",
+		"/C/Users/Denis Rawls/Desktop/Coding/NBA Collision/NBA.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/NBA Collision/NBA.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 2/MyPortfoliov2.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 2/MyPortfoliov2.css",
+		"/C/Users/Denis Rawls/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 2/stylev2.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Random/style.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Random/random.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 2/animesv2.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 1/MyPortfolio.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Padatap Clone/circles.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Padatap Clone/circles.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Anime/index.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Anime/someanime.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 1/anime.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 1/animesv2.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 1/animes.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Version 2/style v2.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/animes.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/MyPortfolio.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/MyPortfolio.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Portfolio/Spinner.html",
+		"/C/Users/Denis Rawls/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Denis Rawls/Desktop/Coding/mmm.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Python/examples.py",
+		"/C/Users/Denis Rawls/Desktop/Coding/Anime/main.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Anime/style.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Anime/animes.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Purrfect Match/purrfectMatch.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Purrfect Match/app.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/firstportfolio.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Parker Page/parkerPage.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Parker Page/allParker.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Image Blog/photos.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/isEven/scope.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/isEven/isEven.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Score Keeper/scoreKeeper.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Blog/blogger.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Blog/myBlog.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Padatap Clone/paper-full.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Annoy/annoy.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Array/ArrayExercise.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Array/ArrayExercise.html",
+		"/C/Users/Denis Rawls/Desktop/CodeAlong 4/circles.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/agecalc.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/agecalc.js",
+		"/C/Users/Denis Rawls/Desktop/Todo-List-Project-FA5-edition/assets/js/todos.js",
+		"/C/Users/Denis Rawls/Desktop/Todo-List-Project-FA5-edition/assets/css/todos.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/jQuery/jQuery Efffects.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/jQuery/effects.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/jQuery/jQuery Methods.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/jQuery/exercise.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/jQuery/jQuery.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/jQuery/jQuery Exercise.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Color Game/colorGame.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Color Game/colorGame.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Color Game/colorGame.js",
+		"/C/Users/Denis Rawls/Desktop/colorGame.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Todo/todos.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Todo/todo.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Todo/todo.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Score Keeper/ScoreKeeper.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Score Keeper/scoreKeeper.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Sistahs with soul/newsws/newSistahs.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Sistahs with soul/newsws/sistahs.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Sistahs with soul/sistahs.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Sistahs with soul/sistahs.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Sistahs with soul/newsws/sws.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/DOM/moreDom.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/DOM/toggle.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/DOM/newDomExercise.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/DOM/domExercise.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Todo List/lists.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Todo List/lists.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/While Loops/whileLoops.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/While Loops/whileLoops.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/While Loops/forLoops.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/While Loops/forLoops.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Annoy/annoy.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/game.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/game.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/bouncer.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/Image Gallery/gallery.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Image Gallery/gallery.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Sistahs with soul/sws.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/jsStalker.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/jsStalker.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/script.js",
+		"/C/Users/Denis Rawls/Desktop/Coding/indexjs.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/firstTimePortfolio.html",
+		"/C/Users/Denis Rawls/Downloads/Foodee Free Website Template - Free-CSS.com/foodee/index.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/Image Gallery/firstTimePortfolio.html",
+		"/C/Users/Denis Rawls/AppData/Local/Temp/Rar$DIa0.604/app.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/something.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/navBar.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/gallery.html",
+		"/C/Users/Denis Rawls/AppData/Local/Temp/Rar$DIa0.683/._app.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/bootstrap.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/grid.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/testingGrids.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/boxstyle.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/basics.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/Exercise/Image Blog/photoGrid.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/something.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/07_ImageBlog1/imageLinks.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/simplepage.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/simplepage.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/photo.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/photoGrid.html",
+		"/C/Users/Denis Rawls/Desktop/Coding/tictactoe.css",
+		"/C/Users/Denis Rawls/Desktop/Coding/tictactoe.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"now",
+			"\t\t\n",
+			"};\n",
+			"i",
+			"document.querySelector('.drawls').style.display = 'none';",
+			"items",
+			">\n",
+			"height",
+			"%;\n",
+			"function",
+			";\n",
+			"easy",
+			"easyBtn",
+			"button",
+			">\n",
+			";\n",
+			");",
+			"));\n",
+			"One",
+			"col-lg-4",
+			"\t\t<div class=\"col-lg-1-md-2 blue\">COL LG 1</div>\n",
+			"\t\t\n",
+			"hi",
+			"\t\t\n",
+			">\n",
+			"\t\t\n",
+			">\n",
+			"100px",
+			"hdcfstdestdfuffu",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "log.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 53.7777777778
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my app.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
